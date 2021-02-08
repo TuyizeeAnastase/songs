@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 
 class SongList extends Component{
     render(){
-        return <div>SongList </div>
+        return <div>SongList</div>
     }
 }
 
